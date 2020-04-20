@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979601064745",
+    "firebase_url": "https://moup-c3758.firebaseio.com",
+    "project_id": "moup-c3758",
+    "storage_bucket": "moup-c3758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979601064745:android:a471bdd50112eca0d16d38",
+        "android_client_info": {
+          "package_name": "com.fire.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979601064745-javmq1lhsuv857np6ld89golmt6qhqnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm84aZQJhUy9txzJkYSVr40c3zDJ9LWa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979601064745-javmq1lhsuv857np6ld89golmt6qhqnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
