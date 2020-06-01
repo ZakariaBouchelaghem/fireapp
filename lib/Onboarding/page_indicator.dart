@@ -1,6 +1,6 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:projet2cp/Onboarding/page_model.dart';
+import 'package:fireapp/Onboarding/page_model.dart';
 
 class PagerIndicator extends StatelessWidget {
   final PagerIndicatorViewModel viewModel;
