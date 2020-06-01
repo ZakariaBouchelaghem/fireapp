@@ -29,7 +29,7 @@ class Specialitie{
     Spec(name1: "كبد", name2 : "Liver",logoText: "images/كبد.png",),
     Spec(name1: "جلدية و ليزر", name2 :"Leather and laser" ,logoText:"images/جلد وليزر.png" ,),
     Spec(name1: "قلب", name2 :"Heart" ,logoText:"images/قلب.png" ,),
-    Spec(name1:"نساء وولادة" , name2 :"Women and childbirth" ,logoText: "images/نساء و ولادة.png",),
+    Spec(name1:"نساء وولادة" , name2 :"Women and childbirth" ,logoText: "images/نساء و ولادة.jpg",),
     Spec(name1: "معدة", name2 :"Stomach" ,logoText:"images/معدة1.png" ,),
     Spec(name1: "تنفسية", name2 :"Respiratory" ,logoText: "images/رئة.png",),
     Spec(name1: "اسنان", name2 : "Teeth",logoText: "images/اسنان.png",),
