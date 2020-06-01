@@ -4,10 +4,10 @@ import 'dart:async';
 import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
-import 'package:projet2cp/Onboarding/page_dragger.dart';
-import 'package:projet2cp/Onboarding/page_indicator.dart';
-import 'package:projet2cp/Onboarding/page_model.dart';
-import 'package:projet2cp/Onboarding/page_reveal.dart';
+import 'package:fireapp/Onboarding/page_dragger.dart';
+import 'package:fireapp/Onboarding/page_indicator.dart';
+import 'package:fireapp/Onboarding/page_model.dart';
+import 'package:fireapp/Onboarding/page_reveal.dart';
 
 import 'fancy_page.dart';
 
