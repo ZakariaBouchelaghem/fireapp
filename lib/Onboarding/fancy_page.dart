@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:projet2cp/Onboarding/page_model.dart';
+import 'package:fireapp/Onboarding/page_model.dart';
 
 class FancyPage extends StatelessWidget {
   final PageModel model;
