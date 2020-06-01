@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:projet2cp/Onboarding/routes_pages.dart';
-import 'package:projet2cp/login/login.dart';
+import 'package:fireapp/Onboarding/routes_pages.dart';
+import 'package:fireapp/login/login.dart';
 
-import 'package:projet2cp/theme/light_color.dart';
-import 'package:projet2cp/theme/extention.dart';
+import 'package:fireapp/theme/light_color.dart';
+import 'package:fireapp/theme/extention.dart';
 
 class SplashPage extends StatefulWidget {
   SplashPage({Key key}) : super(key: key);
