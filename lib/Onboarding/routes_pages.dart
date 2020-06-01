@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:projet2cp/Onboarding/page_model.dart';
+import 'package:fireapp/Onboarding/page_model.dart';
 import 'package:fireapp/login/login.dart';
 
 
