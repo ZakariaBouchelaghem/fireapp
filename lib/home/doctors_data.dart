@@ -25,17 +25,17 @@ class Specialitie{
 
   final List<Spec> listSpecialitie =
   [
-    Spec(name1: "أذن وأنف وحنجرة", name2 :"Darma & Laser" ,logoText: "images/riaa.png",),
-    Spec(name1: "نساء وولادة", name2 : "Gynecology",logoText: "images/kbda.png",),
-    Spec(name1: "جلدية و ليزر", name2 :"ENT" ,logoText:"images/kbda.png" ,),
-    Spec(name1: "أذن وأنف وحنجرة", name2 :"Darma & Laser" ,logoText:"images/heart.png" ,),
-    Spec(name1:"نساء وولادة" , name2 :"Gynecology" ,logoText: "images/kbda.png",),
-    Spec(name1: "جلدية و ليزر", name2 :"ENT" ,logoText:"images/kbda.png" ,),
-    Spec(name1: "أذن وأنف وحنجرة", name2 :"Darma & Laser" ,logoText: "images/heart.png",),
-    Spec(name1: "نساء وولادة", name2 : "Gynecology",logoText: "images/scanner.png",),
-    Spec(name1: "جلدية و ليزر", name2 :"ENT" ,logoText:"images/scanner.png" ,),
-    Spec(name1: "أذن وأنف وحنجرة", name2 :"Darma & Laser" ,logoText:"images/heart.png" ,),
-    Spec(name1:"نساء وولادة" , name2 :"Gynecology" ,logoText: "images/eyes.png",),
+    Spec(name1: "أذن وأنف وحنجرة", name2 :"Ear, nose and throat" ,logoText: "images/اذن و حنجرة.png",),
+    Spec(name1: "كبد", name2 : "Liver",logoText: "images/كبد.png",),
+    Spec(name1: "جلدية و ليزر", name2 :"Leather and laser" ,logoText:"images/جلد وليزر.png" ,),
+    Spec(name1: "قلب", name2 :"Heart" ,logoText:"images/قلب.png" ,),
+    Spec(name1:"نساء وولادة" , name2 :"Women and childbirth" ,logoText: "images/نساء و ولادة.png",),
+    Spec(name1: "معدة", name2 :"Stomach" ,logoText:"images/معدة1.png" ,),
+    Spec(name1: "تنفسية", name2 :"Respiratory" ,logoText: "images/رئة.png",),
+    Spec(name1: "اسنان", name2 : "Teeth",logoText: "images/اسنان.png",),
+    Spec(name1: "كلى", name2 :"	 Kidenies" ,logoText:"images/كلية.png" ,),
+    Spec(name1: "طب بديل", name2 :"Alternative medicine" ,logoText:"images/بديل.png" ,),
+    Spec(name1:"اشعة" , name2 :"Radio" ,logoText: "images/eyes.png",),
     Spec(name1: "جلدية و ليزر", name2 :"ENT" ,logoText:"images/scanner.png" ,),
   ];
   final List<List<Doctor>> doctors = [
