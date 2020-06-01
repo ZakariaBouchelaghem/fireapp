@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:projet2cp/Onboarding/page_indicator.dart';
+import 'package:fireapp/Onboarding/page_indicator.dart';
 
 
 class PageDragger extends StatefulWidget {
