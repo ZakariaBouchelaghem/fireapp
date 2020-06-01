@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:projet2cp/Onboarding/page_model.dart';
-import 'package:projet2cp/login/login.dart';
+import 'package:fireapp/login/login.dart';
+
 
 import 'fancy_on_boarding.dart';
 
