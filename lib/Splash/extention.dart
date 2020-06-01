@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:projet2cp/theme/light_color.dart';
+import 'package:fireapp/theme/light_color.dart';
 
 extension TextStyleHelpers on TextStyle {
   TextStyle get bold => copyWith(fontWeight: FontWeight.bold);
