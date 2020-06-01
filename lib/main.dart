@@ -9,6 +9,16 @@ import 'home/profil2.dart';
 import 'login/first_page.dart';
 import 'login/login.dart';
 import 'login/signup.dart';
+import 'Onboarding/fancy_on_boarding.dart';
+import 'Onboarding/fancy_page.dart';
+import 'Onboarding/page_dragger.dart';
+import 'Onboarding/page_indicator.dart';
+import 'Onboarding/page_model.dart';
+import 'Onboarding/page_reveal.dart';
+import 'Onboarding/routes_pages.dart';
+import 'Splash/splash.dart';
+import 'Splash/light_color.dart';
+import 'Splash/extention.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
