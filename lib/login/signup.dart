@@ -41,10 +41,10 @@ class _signupState extends State<signup> {
      }
    }
    String hinttext = "Email... ";
-   Color hintname  = Color(0xff5097a4);
-   Color hintemail = Color(0xff5097a4);
-   Color hintemail2 = Colors.grey;
-   Color hintpassword = Color(0xff5097a4);
+   Color hintname  = Colors.White;
+   Color hintemail = Colors.White;
+   Color hintemail2 = Colors.White;
+   Color hintpassword = Color.White;
 
   String _searchText = null;
   TextEditingController _name = TextEditingController();
@@ -78,17 +78,17 @@ class _signupState extends State<signup> {
                         child:  TextField(
                           onChanged: (_name){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintpassword = Color(0xff5097a4);
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintpassword = Colors.White;
 
                             });
                           },
                           onTap: (){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintpassword = Color(0xff5097a4);                            });
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintpassword = Colors.White;                            });
                           },
                           cursorColor: hintname,
                           controller: _name,
@@ -113,17 +113,17 @@ class _signupState extends State<signup> {
                         child:  TextField(
                           onChanged: (_email){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintemail2 = Colors.grey;
-                              hintpassword = Color(0xff5097a4);                            });
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintemail2 = Colors.White;
+                              hintpassword = Colors.White;                            });
                           },
                           onTap: (){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintemail2 = Colors.grey;
-                              hintpassword = Color(0xff5097a4);                            });
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintemail2 = Colors.White;
+                              hintpassword = Colors.White;                            });
                           },
                           keyboardType: TextInputType.emailAddress,
                           cursorColor: hintemail,
@@ -153,15 +153,15 @@ class _signupState extends State<signup> {
                         child:  TextField(
                           onChanged: (_password){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintpassword = Color(0xff5097a4);                            });
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintpassword = Colors.White);                            });
                           },
                           onTap: (){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintpassword = Color(0xff5097a4);                            });
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintpassword = Colors.White;                            });
                           },
                           cursorColor: hintpassword,
                           obscureText: true,
@@ -187,15 +187,15 @@ class _signupState extends State<signup> {
                         child:  TextField(
                           onChanged: (_password2){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintpassword = Color(0xff5097a4);                            });
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintpassword = Colors.White;                            });
                           },
                           onTap: (){
                             setState(() {
-                              hintname = Color(0xff5097a4);
-                              hintemail = Color(0xff5097a4);
-                              hintpassword = Color(0xff5097a4);                            });
+                              hintname = Colors.White;
+                              hintemail = Colors.White;
+                              hintpassword = Colors.White;                            });
                           },
                           obscureText: true,
                           cursorColor: hintpassword,
