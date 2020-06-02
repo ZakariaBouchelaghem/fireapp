@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
               color: Colors.white,
               fontSize: 34.0,
             )),
-        body: Text('Most of doctors in Algeria are  here for you ',
+        body: Text('our application has most of algeria doctors',
             textAlign: TextAlign.center,
             style: TextStyle(
               color: Colors.white,
@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
               fontSize: 34.0,
             )),
         body: Text(
-            'We carefully verify all specialities before adding them into the app',
+            'Divided carefully on all specialities',
             textAlign: TextAlign.center,
             style: TextStyle(
               color: Colors.white,
@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
             color: Colors.white,
             fontSize: 34.0,
           )),
-      body: Text('All  states of our country are here in our app for you',
+      body: Text('and for every state of our country',
           textAlign: TextAlign.center,
           style: TextStyle(
             color: Colors.white,
