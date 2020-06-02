@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
   final pageList = [
     PageModel(
         color: const Color(0xFF678FB4),
-        heroAssetPath: 'images/png/doctor(1).png',
+        heroAssetPath: 'images/png/doctors.png',
         title: Text('Doctors',//Hotels
             style: TextStyle(
               fontWeight: FontWeight.w800,
@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
         iconAssetPath: 'images/png/key.png'),
     PageModel(
         color: const Color(0xFF65B0B4),
-        heroAssetPath: 'images/png/specialities5.png',
+        heroAssetPath: 'images/png/specialities.png',
         title: Text('Specialties',
             style: TextStyle(
               fontWeight: FontWeight.w800,
@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
         iconAssetPath: 'images/png/wallet.png'),
     PageModel(
       color: const Color(0xFF9B90BC),
-      heroAssetPath: 'images/png/states(2).png',
+      heroAssetPath: 'images/png/states.png',
       title: Text('States',
           style: TextStyle(
             fontWeight: FontWeight.w800,
